@@ -1,8 +1,11 @@
-### Hi there 👋
-[![Vitor's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorVentura&show_icons=true&theme=radical)](https://github.com/vitventura/github-readme-stats)
+ oi, eu sou vitor ventura! 👋
+<div>
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=VitorVentura&show_icons=true&theme=radical">
+  <img src="https://github.com/vitventura/github-readme-stats">
 <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitventura&layout=compact&theme=radical">
-##
+</div>
 
+##
 <div style="display: inline_block"><br>
   <img align="center" alt="Vito-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Vito-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
