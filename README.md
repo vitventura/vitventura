@@ -1,8 +1,7 @@
- oi, eu sou vitor ventura! 👋
+ Oi, eu sou Vitor Ventura! 👋
 <div>
-<img height="190em" src="https://github-readme-stats.vercel.app/api?username=VitorVentura&show_icons=true&theme=radical">
-  <img src="https://github.com/vitventura/github-readme-stats">
-<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitventura&layout=compact&theme=radical">
+ <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=vitventura&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitventura&layout=compact&theme=great-gatsby">
 </div>
 
 ##
